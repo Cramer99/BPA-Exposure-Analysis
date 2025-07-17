@@ -1,0 +1,619 @@
+id,product_id,product,tags,subcategory,lot_no,BPA_ng_g,BPA_percentile_ng_g,BPA_ng_serving,BPA_percentile_ng_serving,BPA_percent_tdi_14_kg_epa,BPA_percent_tdi_70_kg_epa,BPA_percent_tdi_14_kg_efsa,BPA_percent_tdi_70_kg_efsa
+8144401,304,Seventh Generation Free & Clean Fragrance-Free Handwash,"personal_care,soap",personal_care,11070AM15 22:51,NO RESULT,NO RESULT,NO RESULT,NO RESULT,NO RfD,NO RfD,NO TDI,NO TDI
+8154401,304,Seventh Generation Free & Clean Fragrance-Free Handwash,"personal_care,soap",personal_care,11070AM15 22:51,NO RESULT,NO RESULT,NO RESULT,NO RESULT,NO RfD,NO RfD,NO TDI,NO TDI
+8154402,304,Seventh Generation Free & Clean Fragrance-Free Handwash,"personal_care,soap",personal_care,11070AM15 22:51,NO RESULT,NO RESULT,NO RESULT,NO RESULT,NO RfD,NO RfD,NO TDI,NO TDI
+7090411,79,Ito En Oi Ocha Unsweetened Green Tea,"tea,beverages",tea,4:49,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091001,136,Whole Foods Non-Organic Broccoli,"produce,groceries,organic,vegetables",produce,,<1,<LOQ,<88,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091002,8,Whole Foods Organic Broccoli,"produce,groceries,organic,vegetables",produce,,<1,<LOQ,<88,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091201,26,Clover Organic Whole Milk in Whole Gallon Jug,"dairy,cow_milk,cow_milk_from_store,milk,organic,plastic,whole_milk",dairy,08:15 PT9 SL 06499,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091202,27,Clover Organic Whole Milk in Half Gallon Carton,"dairy,carton,cow_milk,cow_milk_from_store,milk,organic,whole_milk",dairy,72 06-499,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091203,28,Straus Organic Whole Milk in Glass,"dairy,cow_milk,cow_milk_from_store,glass,milk,organic,whole_milk",dairy,10:03:58,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091301,51,Gerber Baby Food Banana in Glass,"baby_food,baby,food,glass",baby_food,4008515911 US00634,<1,<LOQ,<113,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091302,52,Gerber Baby Food Organic Carrot in Glass,"baby_food,baby,food,glass,organic",baby_food,4100515911 US00284,<1,<LOQ,<113,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091303,53,Gerber Baby Food Carrot Puree in Plastic,"baby_food,baby,food,plastic",baby_food,40135157K US7600 13:35,<1,<LOQ,<113,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091304,54,Happy Baby Baby Food Organic Carrot in Glass,"baby_food,baby,food,glass,organic",baby_food,101410947 152629/24956.02/15:01,<1,<LOQ,<113,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091401,57,Almond Breeze Original Almond Milk Unsweetened in Carton,"dairy_alternatives,lactose_free,milk,plant_milk",dairy_alternatives,06:44 #06-16681 2,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091402,58,Oatly Oatmilk Full Fat Chilled in Carton,"dairy_alternatives,lactose_free,milk,plant_milk",dairy_alternatives,UT 22:37C,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091501,64,Whole Foods Boneless Beef Ribeye Steak Pasture Raised,"meat,beef,beef_from_store,groceries",meat,,<1,<LOQ,<85,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091502,65,Whole Foods Boneless Beef Ribeye Steak Grass Fed,"meat,beef,beef_from_store,groceries",meat,,<1,<LOQ,<85,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091601,81,Driscoll's Non-Organic Strawberries,"produce,fruits,groceries,organic",produce,,<1,<LOQ,<140,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091602,82,Good Farms Organic Strawberries,"produce,fruits,groceries,organic",produce,,<1,<LOQ,<140,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091701,116,Chobani Greek Yogurt Nonfat Plain,"yogurt,dairy,non_fat",yogurt,16-012 PR1 010,<1,<LOQ,<150,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091702,117,Straus Organic Whole Milk Plain Greek Yogurt,"yogurt,dairy,organic,whole_milk",yogurt,YBT#01 17:49:12,<1,<LOQ,<170,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091703,118,Straus Organic Whole Milk European Style Plain Yogurt,"yogurt,dairy,organic,whole_milk",yogurt,YBT#01 07:43:32,<1,<LOQ,<170,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091801,30,KIND Dark Chocolate Nuts & Sea Salt Bar,"snacks,groceries",snacks,BC24092 B2 W3 02:02,<1,<LOQ,<40,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091901,59,Fairlife Core Power Elite 42g High Protein Shake Vanilla,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 03:28 2 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091902,59,Fairlife Core Power Elite 42g High Protein Shake Vanilla,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 03:28 2 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091903,59,Fairlife Core Power Elite 42g High Protein Shake Vanilla,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 03:28 2 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091904,62,Fairlife Core Power 26g Protein Shake Strawberry Banana,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 11:37 2 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7091905,63,Fairlife Core Power 26g Protein Shake Vanilla,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 22:10 2 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7101702,31,Sweetgreen Chicken Pesto Parm Salad,"prepared_meals,salad",prepared_meals,,<1,<LOQ,<395,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7101703,32,Chipotle Burrito with Red Beans Veggies Chicken and Sour Cream,"fast_food,prepared_meals",fast_food,,<1,<LOQ,<241,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7102001,10,Costco Seasoned Rotisserie Chicken,"meat,chicken,groceries,poultry",meat,,<1,<LOQ,<85,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7102101,9,In-n-Out Cheeseburger Animal Style,"fast_food,burgers",fast_food,,<1,<LOQ,<229,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7110106,103,Unfiltered Tap Water - Y Combinator (30sec after start),"water,30_sec,sf_dogpatch,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7110107,104,Unfiltered Tap Water - Fort Mason (30sec after start),"water,30_sec,sf_marina,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7110108,105,Unfiltered Tap Water - Hayes Valley (30sec after start),"water,30_sec,sf_hayes,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7111603,83,Pier 39 Farmer's Market Strawberries,"produce,fruits,groceries",produce,,<1,<LOQ,<140,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7111803,33,Butter Chicken - SF Indian Restaurant,"prepared_meals,eat_in,restaurant_food",prepared_meals,,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7111804,34,Butter Chicken - SF Indian Restaurant - Takeout Container (45min),"prepared_meals,restaurant_food,takeout",prepared_meals,,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7112201,15,Blue Bottle Medium Roast Black Coffee from SF Ferry Building,"coffee,beverages,sf_ferry",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7112203,16,Blue Bottle Medium Roast Black Coffee from SF Hayes Valley,"coffee,beverages,sf_hayes",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7112402,2,Boudin Sourdough Bread,"bread,groceries",bread,,<1,<LOQ,<64,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7120109,106,Unfiltered Tap Water - PlasticList Office (30sec after start),"water,30_sec,palo_alto,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7120111,107,Brita Filtered Tap Water - Brita Pitcher 1 (directly after filtering),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7120112,108,Brita Filtered Tap Water - Brita Pitcher (after 1hr),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7120113,109,Brita Filtered Tap Water - Munchkin Cup (after 1hr),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7120114,110,Brita Filtered Tap Water - Solo Cup (after 1hr),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7120115,111,Brita Filtered Tap Water - Nalgene Bottle (after 1hr),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7120116,112,Brita Filtered Tap Water - Hydro Flask (after 1hr),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7120117,113,Brita Filtered Tap Water - Brita Pitcher 2 (directly after filtering),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7120412,80,Jamba Juice Fruit Smoothie with Soymilk Acai Berries and Sherbet,"smoothies,beverages",smoothies,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7122202,18,Blue Bottle Medium Roast Black Coffee from Palo Alto,"coffee,beverages,palo_alto",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7122204,19,Starbucks Medium Roast Black Coffee from Palo Alto,"coffee,beverages,palo_alto",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7122206,21,Verve Medium Roast Black Coffee from Palo Alto,"coffee,beverages,palo_alto",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7123001,125,SF Ocean Water,water,water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7150101,105,Unfiltered Tap Water - Hayes Valley (30sec after start),"water,30_sec,sf_hayes,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7150102,405,Unfiltered Tap Water - Hayes Valley (0sec after start),"water,0_sec,sf_hayes,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7150103,403,Unfiltered Tap Water - Fort Mason (0sec after start),"water,0_sec,sf_marina,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7150104,104,Unfiltered Tap Water - Fort Mason (30sec after start),"water,30_sec,sf_marina,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7150105,103,Unfiltered Tap Water - Y Combinator (30sec after start),"water,30_sec,sf_dogpatch,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7150106,402,Unfiltered Tap Water - Y Combinator (0sec after start),"water,0_sec,sf_dogpatch,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7150401,73,LaCroix Sparkling Water Pure,"water,beverages,sodas",water,LAB 08:22,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7150402,74,LaCroix Sparkling Water Pamplemousse,"water,beverages,sodas",water,0131HY,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7150403,69,Guayaki Organic Yerba Mate Bluephoria,"energy_drinks,beverages,organic,sodas",energy_drinks,NSE 15:40,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7150801,46,Whole Foods Organic Pasta Spaghetti,"dry_goods,groceries,organic",dry_goods,L3339N 23:51,<1,<LOQ,<56,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7151201,100,Clover Whole Milk in Whole Gallon Jug,"dairy,cow_milk,cow_milk_from_store,milk",dairy,06-691,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7151202,134,Clover Whole Milk in Half Gallon Carton,"dairy,cow_milk,cow_milk_from_store,milk",dairy,06-691,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7151301,54,Happy Baby Baby Food Organic Carrot in Glass,"baby_food,baby,food,glass,organic",baby_food,101370914 152629/24956.01/16:18,<1,<LOQ,<113,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7151401,57,Almond Breeze Original Almond Milk Unsweetened in Carton,"dairy_alternatives,lactose_free,milk,plant_milk",dairy_alternatives,HG3 L2 06-01,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7151501,135,Whole Foods Organic Boneless Beef Ribeye Steak Grass Fed,"meat,beef,beef_from_store,groceries,organic",meat,,<1,<LOQ,<85,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7151601,83,Pier 39 Farmer's Market Strawberries,"produce,fruits,groceries",produce,,<1,<LOQ,<140,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7151701,116,Chobani Greek Yogurt Nonfat Plain,"yogurt,dairy,non_fat",yogurt,16-012 PR2 010,<1,<LOQ,<150,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7151702,118,Straus Organic Whole Milk European Style Plain Yogurt,"yogurt,dairy,organic,whole_milk",yogurt,YBT#01 07:28:50,<1,<LOQ,<170,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7151703,133,Chobani Whole Milk Plain Greek Yogurt,"yogurt,dairy,whole_milk",yogurt,16-012 PR2 010,<1,<LOQ,<170,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7151801,33,Butter Chicken - SF Indian Restaurant,"prepared_meals,eat_in,restaurant_food",prepared_meals,,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7151802,34,Butter Chicken - SF Indian Restaurant - Takeout Container (45min),"prepared_meals,restaurant_food,takeout",prepared_meals,,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7151803,30,KIND Dark Chocolate Nuts & Sea Salt Bar,"snacks,groceries",snacks,BC24091 B2 W3 18:12,<1,<LOQ,<40,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7152001,11,Whole Foods Boneless Skinless Chicken Breast,"meat,chicken,groceries,poultry",meat,,<1,<LOQ,<112,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7152002,11,Whole Foods Boneless Skinless Chicken Breast,"meat,chicken,groceries,poultry",meat,,<1,<LOQ,<112,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7152003,11,Whole Foods Boneless Skinless Chicken Breast,"meat,chicken,groceries,poultry",meat,,<1,<LOQ,<112,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7152201,16,Blue Bottle Medium Roast Black Coffee from SF Hayes Valley,"coffee,beverages,sf_hayes",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7152202,129,Tartine Medium Roast Black Coffee,"coffee,beverages",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7152203,15,Blue Bottle Medium Roast Black Coffee from SF Ferry Building,"coffee,beverages,sf_ferry",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7152401,2,Boudin Sourdough Bread,"bread,groceries",bread,,<1,<LOQ,<64,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7152402,3,Tartine Sourdough Bread,"bread,groceries",bread,,<1,<LOQ,<64,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7152403,4,Whole Foods Sourdough Bread,"bread,groceries",bread,,<1,<LOQ,<64,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7152404,4,Whole Foods Sourdough Bread,"bread,groceries",bread,,<1,<LOQ,<64,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7152405,4,Whole Foods Sourdough Bread,"bread,groceries",bread,,<1,<LOQ,<64,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7152501,951,Breast Milk from Milk Bank Mature Grade,"breast_milk,baby,milk",breast_milk,,<1,<LOQ,<152,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7152502,950,Breast Milk from Milk Bank Hospital Grade,"breast_milk,baby,milk",breast_milk,,<1,<LOQ,<152,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7160501,68,Whole Foods Organic Long Grain White Rice,"dry_goods,groceries,organic",dry_goods,,<1,<LOQ,<45,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7160701,47,Whole Foods Organic Creamy Peanut Butter Unsweetened Unsalted,"peanut_butter,modern,organic",peanut_butter,TB4080A 16:52,<1,<LOQ,<32,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7162201,20,Philz Medium Roast Black Coffee from Palo Alto,"coffee,beverages,palo_alto",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7162601,13,Ghirardelli Intense Dark 72% Cacao Dark Chocolate in Paper,"chocolate,groceries,modern",chocolate,G487432,<1,<LOQ,<32,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7162602,13,Ghirardelli Intense Dark 72% Cacao Dark Chocolate in Paper,"chocolate,groceries,modern",chocolate,G487412,<1,<LOQ,<32,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7162904,123,Good & Gather Granulated Sugar,"dry_goods,groceries,modern,sugar",dry_goods,HLB 24 106 21,<1,<LOQ,<8,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7162905,124,Ritz Crackers Original,"snacks,cracker,groceries,modern",snacks,AZ210-2 20:43,<1,<LOQ,<16,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7170201,89,Nature Made Prenatal Folic Acid + DHA Supplement,"supplements,baby,health,pills,vitamins",supplements,2565174,<5,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7170401,80,Jamba Juice Fruit Smoothie with Soymilk Acai Berries and Sherbet,"smoothies,beverages",smoothies,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7170402,78,Red Bull Energy Drink Original,"energy_drinks,beverages,sodas",energy_drinks,Hd2 2272186/06:33,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7170403,75,Celsius Sparkling Drink Wildberry,"energy_drinks,beverages,sodas",energy_drinks,MFG 3233 12:27 DP13,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7170404,76,Celsius Sparkling Orange,"energy_drinks,beverages,sodas",energy_drinks,MFG 0504 19:00 DP13,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7170405,77,Celsius Sparkling Drink Kiwi Guava,"energy_drinks,beverages,sodas",energy_drinks,MFG 2643 2350 PO 2,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7170406,70,Coca-Cola Original,"sodas,beverages",sodas,UVG13571N,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7170407,72,Coca-Cola Zero,"sodas,beverages",sodas,UVB17192N,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7170408,71,Coca-Cola Diet,"sodas,beverages",sodas,UVB0826N,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7170601,49,Colgate Cavity Protection Fluoride Toothpaste Regular Flavor,"personal_care,dental",personal_care,4066MX111E,<5,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7170602,50,Colgate 360 Extra Soft Toothbrush for Sensitive Teeth,"personal_care,dental",personal_care,4018CH30V,<33,<LOQ,<33,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7170801,46,Whole Foods Organic Pasta Spaghetti,"dry_goods,groceries,organic",dry_goods,L4053N,<1,<LOQ,<56,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7170901,1,Enfamil Neuro Pro 587g Infant Formula (Tub),"baby_food,baby,formula",baby_food,EE3HAU,<1,<LOQ,<22,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7171801,35,Big Tech Campus Dining Meal,prepared_meals,prepared_meals,,<1,<LOQ,<474,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7171802,35,Big Tech Campus Dining Meal,prepared_meals,prepared_meals,,<1,<LOQ,<474,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7171803,35,Big Tech Campus Dining Meal,prepared_meals,prepared_meals,,<1,<LOQ,<474,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7172003,18,Blue Bottle Medium Roast Black Coffee from Palo Alto,"coffee,beverages,palo_alto",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7172401,4,Whole Foods Sourdough Bread,"bread,groceries",bread,,<1,<LOQ,<64,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7180501,68,Whole Foods Organic Long Grain White Rice,"dry_goods,groceries,organic",dry_goods,,<1,<LOQ,<45,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7181201,29,Raw Cow Milk from Farm in Glass,"dairy,cow_milk,cow_milk_from_farm,farm,glass,milk,raw_cow_milk",dairy,,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7181202,27,Clover Organic Whole Milk in Half Gallon Carton,"dairy,carton,cow_milk,cow_milk_from_store,milk,organic,whole_milk",dairy,06-691,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7181501,64,Whole Foods Boneless Beef Ribeye Steak Pasture Raised,"meat,beef,beef_from_store,groceries",meat,,<1,<LOQ,<85,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7181502,135,Whole Foods Organic Boneless Beef Ribeye Steak Grass Fed,"meat,beef,beef_from_store,groceries,organic",meat,,<1,<LOQ,<85,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7181601,81,Driscoll's Non-Organic Strawberries,"produce,fruits,groceries,organic",produce,,<1,<LOQ,<140,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7181602,82,Good Farms Organic Strawberries,"produce,fruits,groceries,organic",produce,,<1,<LOQ,<140,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7181801,142,RXBAR 10g Protein Bar Blueberry Cashew Butter,"snacks,groceries",snacks,BMBB1 02:36,<1,<LOQ,<52,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7182001,11,Whole Foods Boneless Skinless Chicken Breast,"meat,chicken,groceries,poultry",meat,,<1,<LOQ,<112,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7182002,11,Whole Foods Boneless Skinless Chicken Breast,"meat,chicken,groceries,poultry",meat,,<1,<LOQ,<112,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7182003,12,Whole Foods Organic Boneless Skinless Chicken Breast,"meat,chicken,groceries,organic,poultry",meat,,<1,<LOQ,<112,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7182004,12,Whole Foods Organic Boneless Skinless Chicken Breast,"meat,chicken,groceries,organic,poultry",meat,,<1,<LOQ,<112,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7183101,145,Whole Foods Mozzarella String Cheese Low-Moisture Part-Skim,"dairy,cheese",dairy,S12 08:44,<1,<LOQ,<28,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7190101,101,Fiji Natural Artesian Water,"water,bottled_water,no_hot_car,plastic",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7190102,98,Mountain Valley Spring Water,"water,bottled_water,glass",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7190201,88,Tylenol Acetaminophen Extra Strength Coated,"medications,coated,health,modern,pills,tablet",medications,DCC245,<5,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7190202,90,Tylenol Acetaminophen Extra Strength Uncoated,"medications,health,modern,pills,tablet,uncoated",medications,DCA031,<5,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7190301,87,Liquid IV Hydration Multiplier Electrolyte Drink Mix Strawberry,"electrolytes,beverages,hydration",electrolytes,,<1,<LOQ,<16,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7191801,30,KIND Dark Chocolate Nuts & Sea Salt Bar,"snacks,groceries",snacks,BC24092 A2 W1 04:55,<1,<LOQ,<40,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7191802,30,KIND Dark Chocolate Nuts & Sea Salt Bar,"snacks,groceries",snacks,BC24092 A2 W1 04:55,<1,<LOQ,<40,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7191803,30,KIND Dark Chocolate Nuts & Sea Salt Bar,"snacks,groceries",snacks,BC24092 A2 W1 04:56,<1,<LOQ,<40,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7191901,61,Fairlife Core Power 26g Protein Shake Chocolate,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 22:48 2 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7191902,63,Fairlife Core Power 26g Protein Shake Vanilla,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 18:57 2 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203201,141,Amy's Black Bean Vegetable Burrito After Microwave,"prepared_meals,groceries,microwaved",prepared_meals,10I1223A,<1,<LOQ,<170,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203301,147,Burger King Chicken Nuggets,"fast_food,chicken,nuggets",fast_food,,<1,<LOQ,<96,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203302,147,Burger King Chicken Nuggets,"fast_food,chicken,nuggets",fast_food,,<1,<LOQ,<96,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203303,147,Burger King Chicken Nuggets,"fast_food,chicken,nuggets",fast_food,,<1,<LOQ,<96,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203304,151,Burger King Vanilla Shake,"fast_food,beverages,shakes",fast_food,,<2.5,<LOQ,<1125,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203305,151,Burger King Vanilla Shake,"fast_food,beverages,shakes",fast_food,,<2.5,<LOQ,<1125,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203306,151,Burger King Vanilla Shake,"fast_food,beverages,shakes",fast_food,,<2.5,<LOQ,<1125,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203307,152,Burger King Whopper with Cheese,"fast_food,burgers",fast_food,,<1,<LOQ,<316,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203308,152,Burger King Whopper with Cheese,"fast_food,burgers",fast_food,,<1,<LOQ,<316,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203309,152,Burger King Whopper with Cheese,"fast_food,burgers",fast_food,,<1,<LOQ,<316,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203310,153,Chick-fil-A Deluxe Sandwich,"fast_food,sandwiches",fast_food,,<1,<LOQ,<247,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203311,153,Chick-fil-A Deluxe Sandwich,"fast_food,sandwiches",fast_food,,<1,<LOQ,<247,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203312,153,Chick-fil-A Deluxe Sandwich,"fast_food,sandwiches",fast_food,,<1,<LOQ,<247,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203313,154,Chick-fil-A Market Salad,"fast_food,prepared_meals,salad",fast_food,,<1,<LOQ,<326,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203314,154,Chick-fil-A Market Salad,"fast_food,prepared_meals,salad",fast_food,,<1,<LOQ,<326,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203315,154,Chick-fil-A Market Salad,"fast_food,prepared_meals,salad",fast_food,,<1,<LOQ,<326,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203316,155,Chick-fil-A Nuggets,"fast_food,chicken,nuggets",fast_food,,<1,<LOQ,<96,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203317,155,Chick-fil-A Nuggets,"fast_food,chicken,nuggets",fast_food,,<1,<LOQ,<96,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203318,155,Chick-fil-A Nuggets,"fast_food,chicken,nuggets",fast_food,,<1,<LOQ,<96,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203319,156,Chick-fil-A Vanilla Shake,"fast_food,beverages,shakes",fast_food,,<2.5,<LOQ,<1022.5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203320,156,Chick-fil-A Vanilla Shake,"fast_food,beverages,shakes",fast_food,,<2.5,<LOQ,<1022.5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203321,156,Chick-fil-A Vanilla Shake,"fast_food,beverages,shakes",fast_food,,<2.5,<LOQ,<1022.5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203322,157,Dominos MeatZZa Pizza,"fast_food,pizza",fast_food,,<1,<LOQ,<139,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203323,157,Dominos MeatZZa Pizza,"fast_food,pizza",fast_food,,<1,<LOQ,<139,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203324,157,Dominos MeatZZa Pizza,"fast_food,pizza",fast_food,,<1,<LOQ,<139,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203325,158,Dominos Pacific Veggie Pizza,"fast_food,pizza",fast_food,,<1,<LOQ,<139,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203326,158,Dominos Pacific Veggie Pizza,"fast_food,pizza",fast_food,,<1,<LOQ,<139,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203328,159,Dominos Ultimate Pepperoni Pizza,"fast_food,pizza",fast_food,,<1,<LOQ,<139,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203329,159,Dominos Ultimate Pepperoni Pizza,"fast_food,pizza",fast_food,,<1,<LOQ,<139,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203330,159,Dominos Ultimate Pepperoni Pizza,"fast_food,pizza",fast_food,,<1,<LOQ,<139,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203336,161,McDonald's Chicken McNuggets,"fast_food,chicken,nuggets",fast_food,,<1,<LOQ,<96,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203337,161,McDonald's Chicken McNuggets,"fast_food,chicken,nuggets",fast_food,,<1,<LOQ,<96,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203338,161,McDonald's Chicken McNuggets,"fast_food,chicken,nuggets",fast_food,,<1,<LOQ,<96,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203339,162,McDonald's Quarter Pounder with Cheese,"fast_food,burgers",fast_food,,<1,<LOQ,<202,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203340,162,McDonald's Quarter Pounder with Cheese,"fast_food,burgers",fast_food,,<1,<LOQ,<202,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203341,162,McDonald's Quarter Pounder with Cheese,"fast_food,burgers",fast_food,,<1,<LOQ,<202,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203345,163,McDonald's Vanilla Shake,"fast_food,beverages,shakes",fast_food,,<2.5,<LOQ,<1125,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203346,163,McDonald's Vanilla Shake,"fast_food,beverages,shakes",fast_food,,<2.5,<LOQ,<1125,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203347,163,McDonald's Vanilla Shake,"fast_food,beverages,shakes",fast_food,,<2.5,<LOQ,<1125,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203348,177,Subway Chocolate Chip Cookie,"fast_food,baked_goods,groceries",fast_food,,<1,<LOQ,<45,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203349,177,Subway Chocolate Chip Cookie,"fast_food,baked_goods,groceries",fast_food,,<1,<LOQ,<45,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203350,177,Subway Chocolate Chip Cookie,"fast_food,baked_goods,groceries",fast_food,,<1,<LOQ,<45,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203351,178,Subway Sub Grilled Chicken 6 Inch,"fast_food,sandwiches",fast_food,,<1,<LOQ,<233,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203352,178,Subway Sub Grilled Chicken 6 Inch,"fast_food,sandwiches",fast_food,,<1,<LOQ,<233,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203353,178,Subway Sub Grilled Chicken 6 Inch,"fast_food,sandwiches",fast_food,,<1,<LOQ,<233,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203354,179,Subway Sub Tuna 6 Inch,"fast_food,sandwiches",fast_food,,<1,<LOQ,<229,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203355,179,Subway Sub Tuna 6 Inch,"fast_food,sandwiches",fast_food,,<1,<LOQ,<229,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203356,179,Subway Sub Tuna 6 Inch,"fast_food,sandwiches",fast_food,,<1,<LOQ,<229,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203357,180,Taco Bell Big Cheez-It Crunchwrap Supreme,"fast_food,prepared_meals",fast_food,,<1,<LOQ,<241,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203358,180,Taco Bell Big Cheez-It Crunchwrap Supreme,"fast_food,prepared_meals",fast_food,,<1,<LOQ,<241,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203359,180,Taco Bell Big Cheez-It Crunchwrap Supreme,"fast_food,prepared_meals",fast_food,,<1,<LOQ,<241,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203360,181,Taco Bell Cantina Chicken Burrito,"fast_food,prepared_meals",fast_food,,<1,<LOQ,<241,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203361,181,Taco Bell Cantina Chicken Burrito,"fast_food,prepared_meals",fast_food,,<1,<LOQ,<241,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203362,181,Taco Bell Cantina Chicken Burrito,"fast_food,prepared_meals",fast_food,,<1,<LOQ,<241,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203363,182,Taco Bell Cantina Chicken Crispy Taco,"fast_food,prepared_meals",fast_food,,<1,<LOQ,<102,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203364,182,Taco Bell Cantina Chicken Crispy Taco,"fast_food,prepared_meals",fast_food,,<1,<LOQ,<102,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203365,182,Taco Bell Cantina Chicken Crispy Taco,"fast_food,prepared_meals",fast_food,,<1,<LOQ,<102,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203366,183,Wendy's Crispy Chicken Nuggets,"fast_food,chicken,nuggets",fast_food,,<1,<LOQ,<96,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203367,183,Wendy's Crispy Chicken Nuggets,"fast_food,chicken,nuggets",fast_food,,<1,<LOQ,<96,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203368,183,Wendy's Crispy Chicken Nuggets,"fast_food,chicken,nuggets",fast_food,,<1,<LOQ,<96,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203369,184,Wendy's Dave's Single with Cheese,"fast_food,burgers",fast_food,,<1,<LOQ,<320,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203370,184,Wendy's Dave's Single with Cheese,"fast_food,burgers",fast_food,,<1,<LOQ,<320,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203371,184,Wendy's Dave's Single with Cheese,"fast_food,burgers",fast_food,,<1,<LOQ,<320,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203372,185,Wendy's Chocolate Frosty,"fast_food,beverages,shakes",fast_food,,<2.5,<LOQ,<1125,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203373,185,Wendy's Chocolate Frosty,"fast_food,beverages,shakes",fast_food,,<2.5,<LOQ,<1125,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203374,185,Wendy's Chocolate Frosty,"fast_food,beverages,shakes",fast_food,,<2.5,<LOQ,<1125,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203375,204,Taco Bell Baja Blast,"fast_food,beverages,sodas",fast_food,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203376,204,Taco Bell Baja Blast,"fast_food,beverages,sodas",fast_food,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7203377,204,Taco Bell Baja Blast,"fast_food,beverages,sodas",fast_food,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210102,101,Fiji Natural Artesian Water,"water,bottled_water,no_hot_car,plastic",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210104,110,Brita Filtered Tap Water - Solo Cup (after 1hr),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210105,111,Brita Filtered Tap Water - Nalgene Bottle (after 1hr),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210106,112,Brita Filtered Tap Water - Hydro Flask (after 1hr),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210107,106,Unfiltered Tap Water - PlasticList Office (30sec after start),"water,30_sec,palo_alto,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210108,107,Brita Filtered Tap Water - Brita Pitcher 1 (directly after filtering),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210109,108,Brita Filtered Tap Water - Brita Pitcher (after 1hr),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210110,109,Brita Filtered Tap Water - Munchkin Cup (after 1hr),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210111,113,Brita Filtered Tap Water - Brita Pitcher 2 (directly after filtering),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210112,115,Fiji Water - Car on Sunny Day (1hr),"water,1hr_hot_car,bottled_water",water,L1,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210113,115,Fiji Water - Car on Sunny Day (1hr),"water,1hr_hot_car,bottled_water",water,L1,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210114,115,Fiji Water - Car on Sunny Day (1hr),"water,1hr_hot_car,bottled_water",water,L1,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210201,88,Tylenol Acetaminophen Extra Strength Coated,"medications,coated,health,modern,pills,tablet",medications,DCC245,<50,<LOQ,<50,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210202,89,Nature Made Prenatal Folic Acid + DHA Supplement,"supplements,baby,health,pills,vitamins",supplements,2561807,<5,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210203,90,Tylenol Acetaminophen Extra Strength Uncoated,"medications,health,modern,pills,tablet,uncoated",medications,CPA013,<50,<LOQ,<50,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210204,260,One A Day Womens Prenatal 1 Multivitamin with DHA & Folic Acid,"supplements,baby,health,pills,vitamins",supplements,NAADACB,<5,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210205,260,One A Day Womens Prenatal 1 Multivitamin with DHA & Folic Acid,"supplements,baby,health,pills,vitamins",supplements,NAADD3X,<5,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210206,260,One A Day Womens Prenatal 1 Multivitamin with DHA & Folic Acid,"supplements,baby,health,pills,vitamins",supplements,NAAD5HC,<5,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210301,243,Optimum Nutrition Gold Standard 100% Whey Double Rich Chocolate,"supplements,health,protein",supplements,0001229670 03:01,<1,<LOQ,<30,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210302,243,Optimum Nutrition Gold Standard 100% Whey Double Rich Chocolate,"supplements,health,protein",supplements,0001229670 00:35,<1,<LOQ,<30,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210303,243,Optimum Nutrition Gold Standard 100% Whey Double Rich Chocolate,"supplements,health,protein",supplements,0001229670 21:29,<1,<LOQ,<30,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210304,85,Sunwarrior Active Creatine Monohydrate Unflavored,"supplements,health",supplements,24052013300,<1,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210306,86,Emergen C 1000mg Vitamin C Immune Support Fizzy Drink Mix Orange,"supplements,health,vitamins",supplements,JK8R,<5,<LOQ,<45,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210307,86,Emergen C 1000mg Vitamin C Immune Support Fizzy Drink Mix Orange,"supplements,health,vitamins",supplements,H69F,<5,<LOQ,<45,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210308,87,Liquid IV Hydration Multiplier Electrolyte Drink Mix Strawberry,"electrolytes,beverages,hydration",electrolytes,LK088-24 09:39,<5,<LOQ,<80,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210401,69,Guayaki Organic Yerba Mate Bluephoria,"energy_drinks,beverages,organic,sodas",energy_drinks,NSE 18:47,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210402,70,Coca-Cola Original,"sodas,beverages",sodas,UVA03082N,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210403,71,Coca-Cola Diet,"sodas,beverages",sodas,oct724uve23562N,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210404,71,Coca-Cola Diet,"sodas,beverages",sodas,oct724uve23562N,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210405,71,Coca-Cola Diet,"sodas,beverages",sodas,oct724uve23562N,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210406,72,Coca-Cola Zero,"sodas,beverages",sodas,UVA20111N,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210407,76,Celsius Sparkling Orange,"energy_drinks,beverages,sodas",energy_drinks,MFG 0664 13:37 PO 2,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210408,77,Celsius Sparkling Drink Kiwi Guava,"energy_drinks,beverages,sodas",energy_drinks,MFG 3643 18:55 DP13,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210410,991,Gatorade Thirst Quencher Cool Blue,"electrolytes,beverages,hydration",electrolytes,14:46 AZ052443 4TL0524240634,<1,<LOQ,<366,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210411,991,Gatorade Thirst Quencher Cool Blue,"electrolytes,beverages,hydration",electrolytes,07:41 C042643 C04098121910,<1,<LOQ,<366,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210412,991,Gatorade Thirst Quencher Cool Blue,"electrolytes,beverages,hydration",electrolytes,07:43 C042643 C04098121710,<1,<LOQ,<366,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210413,80,Jamba Juice Fruit Smoothie with Soymilk Acai Berries and Sherbet,"smoothies,beverages",smoothies,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210602,50,Colgate 360 Extra Soft Toothbrush for Sensitive Teeth,"personal_care,dental",personal_care,4018CH30V,<33,<LOQ,<33,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210701,47,Whole Foods Organic Creamy Peanut Butter Unsweetened Unsalted,"peanut_butter,modern,organic",peanut_butter,TB4080A 16:53,<1,<LOQ,<32,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210702,48,PB2 Foods Peanut Butter Powdered,peanut_butter,peanut_butter,02:05 0124130110,<2.5,<LOQ,<32.5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210703,48,PB2 Foods Peanut Butter Powdered,peanut_butter,peanut_butter,01:21 1124110110,<2.5,<LOQ,<32.5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210801,144,Kraft Mac & Cheese Before Microwave,"prepared_meals,groceries,microwaved",prepared_meals,S32 06:06,<1,<LOQ,<70,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210802,144,Kraft Mac & Cheese Before Microwave,"prepared_meals,groceries,microwaved",prepared_meals,S32 17:05,<1,<LOQ,<70,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210803,144,Kraft Mac & Cheese Before Microwave,"prepared_meals,groceries,microwaved",prepared_meals,S32 06:06,<1,<LOQ,<70,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210804,139,Annie's Organic Classic Cheddar Mac and Cheese,"prepared_meals,groceries,microwaved,organic",prepared_meals,YN 01:14 02,<1,<LOQ,<71,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210805,139,Annie's Organic Classic Cheddar Mac and Cheese,"prepared_meals,groceries,microwaved,organic",prepared_meals,YN 01:14 02,<1,<LOQ,<71,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210901,227,Enfamil Neuro Pro 587g Infant Formula (Can),"baby_food,baby,formula",baby_food,2352 11624 A,<1,<LOQ,<22,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210902,227,Enfamil Neuro Pro 587g Infant Formula (Can),"baby_food,baby,formula",baby_food,2352 11624 A,<1,<LOQ,<22,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7210903,227,Enfamil Neuro Pro 587g Infant Formula (Can),"baby_food,baby,formula",baby_food,2352 11624 A,<1,<LOQ,<22,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211001,8,Whole Foods Organic Broccoli,"produce,groceries,organic,vegetables",produce,,<1,<LOQ,<88,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211002,136,Whole Foods Non-Organic Broccoli,"produce,groceries,organic,vegetables",produce,,<1,<LOQ,<88,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211003,136,Whole Foods Non-Organic Broccoli,"produce,groceries,organic,vegetables",produce,,<1,<LOQ,<88,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211203,26,Clover Organic Whole Milk in Whole Gallon Jug,"dairy,cow_milk,cow_milk_from_store,milk,organic,plastic,whole_milk",dairy,F4 09:31 PT9 AC 06499,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211204,100,Clover Whole Milk in Whole Gallon Jug,"dairy,cow_milk,cow_milk_from_store,milk",dairy,F5 09:51 P19 MM 06499,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211205,27,Clover Organic Whole Milk in Half Gallon Carton,"dairy,carton,cow_milk,cow_milk_from_store,milk,organic,whole_milk",dairy,02:48 71 06-499,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211206,100,Clover Whole Milk in Whole Gallon Jug,"dairy,cow_milk,cow_milk_from_store,milk",dairy,05:57 PT5 AC 06499,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211207,26,Clover Organic Whole Milk in Whole Gallon Jug,"dairy,cow_milk,cow_milk_from_store,milk,organic,plastic,whole_milk",dairy,13:38 06-691,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211301,51,Gerber Baby Food Banana in Glass,"baby_food,baby,food,glass",baby_food,4057515911 US00634,<1,<LOQ,<113,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211302,187,Gerber Natural for Baby Wonderfoods Banana Blueberry Pouch,"baby_food,baby,food",baby_food,414351592P 57,<1,<LOQ,<99,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211303,187,Gerber Natural for Baby Wonderfoods Banana Blueberry Pouch,"baby_food,baby,food",baby_food,412451592P 47,<1,<LOQ,<99,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211304,187,Gerber Natural for Baby Wonderfoods Banana Blueberry Pouch,"baby_food,baby,food",baby_food,414351592P 48,<1,<LOQ,<99,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211402,58,Oatly Oatmilk Full Fat Chilled in Carton,"dairy_alternatives,lactose_free,milk,plant_milk",dairy_alternatives,UT 11:20C TPV2.03,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211403,58,Oatly Oatmilk Full Fat Chilled in Carton,"dairy_alternatives,lactose_free,milk,plant_milk",dairy_alternatives,UT 17:30 C,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211601,81,Driscoll's Non-Organic Strawberries,"produce,fruits,groceries,organic",produce,,<1,<LOQ,<140,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211602,82,Good Farms Organic Strawberries,"produce,fruits,groceries,organic",produce,,<1,<LOQ,<140,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211603,83,Pier 39 Farmer's Market Strawberries,"produce,fruits,groceries",produce,,<1,<LOQ,<140,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211702,133,Chobani Whole Milk Plain Greek Yogurt,"yogurt,dairy,whole_milk",yogurt,01:06 16-012 PR2 010,<1,<LOQ,<170,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211703,116,Chobani Greek Yogurt Nonfat Plain,"yogurt,dairy,non_fat",yogurt,08:19 16-012 PR1 010,<1,<LOQ,<150,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211704,117,Straus Organic Whole Milk Plain Greek Yogurt,"yogurt,dairy,organic,whole_milk",yogurt,YBT#02 13:38:21,<1,<LOQ,<170,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211705,117,Straus Organic Whole Milk Plain Greek Yogurt,"yogurt,dairy,organic,whole_milk",yogurt,YBT#02 14:52:02,<1,<LOQ,<170,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211706,118,Straus Organic Whole Milk European Style Plain Yogurt,"yogurt,dairy,organic,whole_milk",yogurt,YBT#01 10:52:14,<1,<LOQ,<170,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211801,401,Trader Joe's Frozen Butter Chicken with Basmati Rice After Microwave,"prepared_meals,groceries,microwaved",prepared_meals,296262 13,<1,<LOQ,<354,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211802,401,Trader Joe's Frozen Butter Chicken with Basmati Rice After Microwave,"prepared_meals,groceries,microwaved",prepared_meals,296262 13,<1,<LOQ,<354,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211803,401,Trader Joe's Frozen Butter Chicken with Basmati Rice After Microwave,"prepared_meals,groceries,microwaved",prepared_meals,296262 17,<1,<LOQ,<354,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211804,400,Trader Joe's Frozen Butter Chicken with Basmati Rice Before Microwave,"prepared_meals,groceries,microwaved",prepared_meals,296262 16,<1,<LOQ,<354,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211805,400,Trader Joe's Frozen Butter Chicken with Basmati Rice Before Microwave,"prepared_meals,groceries,microwaved",prepared_meals,296262 16,<1,<LOQ,<354,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211806,400,Trader Joe's Frozen Butter Chicken with Basmati Rice Before Microwave,"prepared_meals,groceries,microwaved",prepared_meals,296262 17,<1,<LOQ,<354,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211807,142,RXBAR 10g Protein Bar Blueberry Cashew Butter,"snacks,groceries",snacks,BMBB1W2 00:08,<1,<LOQ,<52,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211808,236,RXBAR 12g Protein Bar Blueberry,"snacks,groceries",snacks,BE AC15 06:18,<1,<LOQ,<52,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211901,61,Fairlife Core Power 26g Protein Shake Chocolate,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 19:27 2 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211902,61,Fairlife Core Power 26g Protein Shake Chocolate,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 22:44 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211903,62,Fairlife Core Power 26g Protein Shake Strawberry Banana,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 01:27 2 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211904,62,Fairlife Core Power 26g Protein Shake Strawberry Banana,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 04:46 2 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211905,59,Fairlife Core Power Elite 42g High Protein Shake Vanilla,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 11:33 2 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211906,59,Fairlife Core Power Elite 42g High Protein Shake Vanilla,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 11:32 2 04:197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211907,60,Fairlife Core Power Elite 42g High Protein Shake Strawberry,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 03:09 2 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211908,60,Fairlife Core Power Elite 42g High Protein Shake Strawberry,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 18:54 2 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211909,60,Fairlife Core Power Elite 42g High Protein Shake Strawberry,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 18:55 2 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7211910,63,Fairlife Core Power 26g Protein Shake Vanilla,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 03:47 2 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212002,10,Costco Seasoned Rotisserie Chicken,"meat,chicken,groceries,poultry",meat,,<1,<LOQ,<85,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212401,4,Whole Foods Sourdough Bread,"bread,groceries",bread,,<1,<LOQ,<64,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212603,14,Ghirardelli Intense Dark 72% Cacao Dark Chocolate in Plastic,"chocolate,groceries,modern",chocolate,Z350230A2,<1,<LOQ,<32,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212604,14,Ghirardelli Intense Dark 72% Cacao Dark Chocolate in Plastic,"chocolate,groceries,modern",chocolate,Z796240C1,<1,<LOQ,<32,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212701,25,Ben & Jerry's Phish Food Ice Cream,"ice_cream,groceries",ice_cream,BJ1 5095 10:42 84138391,<1,<LOQ,<143,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212704,24,Ben & Jerry's Vanilla Ice Cream,"ice_cream,groceries",ice_cream,GB4 29230 12:14,<1,<LOQ,<143,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212705,24,Ben & Jerry's Vanilla Ice Cream,"ice_cream,groceries",ice_cream,GB4 29230 04:22,<1,<LOQ,<143,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212706,24,Ben & Jerry's Vanilla Ice Cream,"ice_cream,groceries",ice_cream,GB4 29230 14:56,<1,<LOQ,<143,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212707,24,Ben & Jerry's Vanilla Ice Cream,"ice_cream,groceries",ice_cream,GB4 29230 04:23,<1,<LOQ,<143,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212801,56,Impossible Impossible Meat Patty,"meat_substitutes,groceries",meat_substitutes,ASH 2414401 13:26 C3,<1,<LOQ,<113,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212901,121,Good & Gather Powdered Milk Instant Nonfat Dry,"dairy,cow_milk,milk,modern,powdered_milk",dairy,S 06:00,<1,<LOQ,<23,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212902,121,Good & Gather Powdered Milk Instant Nonfat Dry,"dairy,cow_milk,milk,modern,powdered_milk",dairy,S 05:53,<1,<LOQ,<23,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212904,122,Nestle Nescafe Instant Coffee Powder,"coffee,beverages,modern",coffee,414902142A 12:36:16,<50,<LOQ,<250,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212905,122,Nestle Nescafe Instant Coffee Powder,"coffee,beverages,modern",coffee,414802142A 05:28:03,<50,<LOQ,<250,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212906,122,Nestle Nescafe Instant Coffee Powder,"coffee,beverages,modern",coffee,414902142F 12: 34:40,<50,<LOQ,<250,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212907,123,Good & Gather Granulated Sugar,"dry_goods,groceries,modern,sugar",dry_goods,HLB 24 074 18,<1,<LOQ,<8,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212908,123,Good & Gather Granulated Sugar,"dry_goods,groceries,modern,sugar",dry_goods,HLB 24 074 18,<1,<LOQ,<8,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212909,124,Ritz Crackers Original,"snacks,cracker,groceries,modern",snacks,,<1,<LOQ,<16,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212911,186,Ghirardelli Sweet Ground Powder Chocolate & Cocoa,"chocolate,cocoa,groceries,modern",chocolate,C397240A1,<1,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7212912,186,Ghirardelli Sweet Ground Powder Chocolate & Cocoa,"chocolate,cocoa,groceries,modern",chocolate,C150231A1,<1,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213101,145,Whole Foods Mozzarella String Cheese Low-Moisture Part-Skim,"dairy,cheese",dairy,S12 07:39,<1,<LOQ,<28,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213102,145,Whole Foods Mozzarella String Cheese Low-Moisture Part-Skim,"dairy,cheese",dairy,S12 08:44,<1,<LOQ,<28,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213202,140,Amy's Black Bean Vegetable Burrito Before Microwave,"prepared_meals,groceries,microwaved",prepared_meals,10I1223B,<1,<LOQ,<170,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213301,165,Shake Shack Chicken Bites,"fast_food,chicken,nuggets",fast_food,,<1,<LOQ,<96,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213302,165,Shake Shack Chicken Bites,"fast_food,chicken,nuggets",fast_food,,<1,<LOQ,<96,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213303,165,Shake Shack Chicken Bites,"fast_food,chicken,nuggets",fast_food,,<1,<LOQ,<96,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213304,166,Shake Shack Cheeseburger,"fast_food,burgers",fast_food,,<1,<LOQ,<229,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213305,166,Shake Shack Cheeseburger,"fast_food,burgers",fast_food,,<1,<LOQ,<229,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213307,167,Shake Shack Vanilla Shake,"fast_food,beverages,shakes",fast_food,,<2.5,<LOQ,<1125,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213308,167,Shake Shack Vanilla Shake,"fast_food,beverages,shakes",fast_food,,<2.5,<LOQ,<1125,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213309,167,Shake Shack Vanilla Shake,"fast_food,beverages,shakes",fast_food,,<2.5,<LOQ,<1125,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213310,168,Starbucks Birthday Cake Pop,"baked_goods,groceries",baked_goods,,<1,<LOQ,<38,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213311,168,Starbucks Birthday Cake Pop,"baked_goods,groceries",baked_goods,,<1,<LOQ,<38,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213312,168,Starbucks Birthday Cake Pop,"baked_goods,groceries",baked_goods,,<1,<LOQ,<38,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213313,169,Starbucks Chocolate Croissant Warmed,"baked_goods,groceries",baked_goods,,<1,<LOQ,<80,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213314,169,Starbucks Chocolate Croissant Warmed,"baked_goods,groceries",baked_goods,,<1,<LOQ,<80,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213315,169,Starbucks Chocolate Croissant Warmed,"baked_goods,groceries",baked_goods,,<1,<LOQ,<80,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213316,170,Starbucks Spinach Feta Wrap Warmed,prepared_meals,prepared_meals,,<1,<LOQ,<159,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213317,170,Starbucks Spinach Feta Wrap Warmed,prepared_meals,prepared_meals,,<1,<LOQ,<159,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213318,170,Starbucks Spinach Feta Wrap Warmed,prepared_meals,prepared_meals,,<1,<LOQ,<159,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213319,171,Starbucks Sausage Cheddar Egg Breakfast Sandwich Warmed,prepared_meals,prepared_meals,,<1,<LOQ,<157,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213320,171,Starbucks Sausage Cheddar Egg Breakfast Sandwich Warmed,prepared_meals,prepared_meals,,<1,<LOQ,<157,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213321,171,Starbucks Sausage Cheddar Egg Breakfast Sandwich Warmed,prepared_meals,prepared_meals,,<1,<LOQ,<157,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213322,172,Starbucks Bacon Gruyere Egg Bites Warmed,prepared_meals,prepared_meals,,<1,<LOQ,<130,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213323,172,Starbucks Bacon Gruyere Egg Bites Warmed,prepared_meals,prepared_meals,,<1,<LOQ,<130,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213324,172,Starbucks Bacon Gruyere Egg Bites Warmed,prepared_meals,prepared_meals,,<1,<LOQ,<130,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213325,173,Starbucks Matcha Latte,"tea,beverages",tea,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213326,173,Starbucks Matcha Latte,"tea,beverages",tea,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213327,173,Starbucks Matcha Latte,"tea,beverages",tea,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213328,174,Starbucks Strawberry Acai Refresher,beverages,beverages,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213329,174,Starbucks Strawberry Acai Refresher,beverages,beverages,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213330,174,Starbucks Strawberry Acai Refresher,beverages,beverages,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213331,175,Starbucks Caramel Frappuccino,"coffee,beverages",coffee,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213332,175,Starbucks Caramel Frappuccino,"coffee,beverages",coffee,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213333,175,Starbucks Caramel Frappuccino,"coffee,beverages",coffee,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213334,176,Starbucks Nitro Cold Brew,"coffee,beverages",coffee,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213335,176,Starbucks Nitro Cold Brew,"coffee,beverages",coffee,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213336,176,Starbucks Nitro Cold Brew,"coffee,beverages",coffee,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213340,160,In-n-Out Vanilla Shake,"fast_food,beverages,shakes",fast_food,,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213341,160,In-n-Out Vanilla Shake,"fast_food,beverages,shakes",fast_food,,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213342,160,In-n-Out Vanilla Shake,"fast_food,beverages,shakes",fast_food,,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213701,206,Whole Foods Bananas,"produce,fruits,groceries",produce,,<5,<LOQ,<590,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213702,207,Whole Foods Organic Bananas,"produce,fruits,groceries,organic",produce,,<1,<LOQ,<118,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213703,207,Whole Foods Organic Bananas,"produce,fruits,groceries,organic",produce,,<5,<LOQ,<590,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213704,208,Whole Foods Blueberries,"produce,fruits,groceries",produce,,<5,<LOQ,<700,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213705,209,Whole Foods Lettuce,"produce,groceries,vegetables",produce,,<1,<LOQ,<47,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213706,209,Whole Foods Lettuce,"produce,groceries,vegetables",produce,,<1,<LOQ,<47,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213707,209,Whole Foods Lettuce,"produce,groceries,vegetables",produce,,<1,<LOQ,<47,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213708,214,Whole Foods Tomatoes,"produce,groceries,vegetables",produce,,<1,<LOQ,<123,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213709,214,Whole Foods Tomatoes,"produce,groceries,vegetables",produce,,<1,<LOQ,<123,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213710,214,Whole Foods Tomatoes,"produce,groceries,vegetables",produce,,<1,<LOQ,<123,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213711,8,Whole Foods Organic Broccoli,"produce,groceries,organic,vegetables",produce,,<1,<LOQ,<88,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213712,207,Whole Foods Organic Bananas,"produce,fruits,groceries,organic",produce,,<1,<LOQ,<118,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213713,206,Whole Foods Bananas,"produce,fruits,groceries",produce,,<1,<LOQ,<118,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213714,208,Whole Foods Blueberries,"produce,fruits,groceries",produce,,<5,<LOQ,<700,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213715,206,Whole Foods Bananas,"produce,fruits,groceries",produce,,<5,<LOQ,<590,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7213716,208,Whole Foods Blueberries,"produce,fruits,groceries",produce,,<5,<LOQ,<700,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7220101,106,Unfiltered Tap Water - PlasticList Office (30sec after start),"water,30_sec,palo_alto,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7220103,111,Brita Filtered Tap Water - Nalgene Bottle (after 1hr),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7220104,108,Brita Filtered Tap Water - Brita Pitcher (after 1hr),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7220105,112,Brita Filtered Tap Water - Hydro Flask (after 1hr),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7220106,109,Brita Filtered Tap Water - Munchkin Cup (after 1hr),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7220107,110,Brita Filtered Tap Water - Solo Cup (after 1hr),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7220108,113,Brita Filtered Tap Water - Brita Pitcher 2 (directly after filtering),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7220109,107,Brita Filtered Tap Water - Brita Pitcher 1 (directly after filtering),"water,filtered,palo_alto,tap_water",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7220801,143,Kraft Mac & Cheese After Microwave,"prepared_meals,groceries,microwaved",prepared_meals,S32 06:06,<1,<LOQ,<70,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7220802,143,Kraft Mac & Cheese After Microwave,"prepared_meals,groceries,microwaved",prepared_meals,S32 17:05,<1,<LOQ,<70,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7220803,143,Kraft Mac & Cheese After Microwave,"prepared_meals,groceries,microwaved",prepared_meals,S32 06:06,<1,<LOQ,<70,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7221201,28,Straus Organic Whole Milk in Glass,"dairy,cow_milk,cow_milk_from_store,glass,milk,organic,whole_milk",dairy,12:28:39,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7221501,67,Boneless Beef Ribeye Steak from Local Butcher,"meat,beef,beef_from_farm,farm,groceries",meat,,<1,<LOQ,<85,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7221502,67,Boneless Beef Ribeye Steak from Local Butcher,"meat,beef,beef_from_farm,farm,groceries",meat,,<1,<LOQ,<85,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7221503,67,Boneless Beef Ribeye Steak from Local Butcher,"meat,beef,beef_from_farm,farm,groceries",meat,,<1,<LOQ,<85,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7221801,140,Amy's Black Bean Vegetable Burrito Before Microwave,"prepared_meals,groceries,microwaved",prepared_meals,10I1223A,<1,<LOQ,<170,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7221802,141,Amy's Black Bean Vegetable Burrito After Microwave,"prepared_meals,groceries,microwaved",prepared_meals,10I1223A,<1,<LOQ,<170,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7221803,140,Amy's Black Bean Vegetable Burrito Before Microwave,"prepared_meals,groceries,microwaved",prepared_meals,10I1223A,<1,<LOQ,<170,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7221804,141,Amy's Black Bean Vegetable Burrito After Microwave,"prepared_meals,groceries,microwaved",prepared_meals,10I1223A,<1,<LOQ,<170,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7222201,17,Nespresso Medium Roast Black Capsule Coffee,"coffee,beverages",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7222202,17,Nespresso Medium Roast Black Capsule Coffee,"coffee,beverages",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7222203,17,Nespresso Medium Roast Black Capsule Coffee,"coffee,beverages",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7223701,226,Farmer's Market Blueberries,"produce,fruits,groceries",produce,,<5,<LOQ,<700,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7223702,226,Farmer's Market Blueberries,"produce,fruits,groceries",produce,,<5,<LOQ,<700,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7223703,226,Farmer's Market Blueberries,"produce,fruits,groceries",produce,,<5,<LOQ,<700,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7230101,402,Unfiltered Tap Water - Y Combinator (0sec after start),"water,0_sec,sf_dogpatch,tap_water,unfiltered",water,,<1.2,<LOQ,<426,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7230102,103,Unfiltered Tap Water - Y Combinator (30sec after start),"water,30_sec,sf_dogpatch,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7230103,106,Unfiltered Tap Water - PlasticList Office (30sec after start),"water,30_sec,palo_alto,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7230104,105,Unfiltered Tap Water - Hayes Valley (30sec after start),"water,30_sec,sf_hayes,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7230105,403,Unfiltered Tap Water - Fort Mason (0sec after start),"water,0_sec,sf_marina,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7230106,104,Unfiltered Tap Water - Fort Mason (30sec after start),"water,30_sec,sf_marina,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7230107,126,SF Bay Water,water,water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7230901,227,Enfamil Neuro Pro 587g Infant Formula (Can),"baby_food,baby,formula",baby_food,2352 11624 B,<1,<LOQ,<22,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7230902,227,Enfamil Neuro Pro 587g Infant Formula (Can),"baby_food,baby,formula",baby_food,0013 15324 A,<1,<LOQ,<22,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7230903,1,Enfamil Neuro Pro 587g Infant Formula (Tub),"baby_food,baby,formula",baby_food,EE4CUU,<1,<LOQ,<22,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7231804,241,Chicken Tikka Masala from Indian Restaurant after 45 Min in Takeout Container,"prepared_meals,restaurant_food,takeout",prepared_meals,,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7231805,242,Chicken Tikka Masala from Indian Restaurant,"prepared_meals,eat_in,restaurant_food",prepared_meals,,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7231901,231,Fairlife Core Power Elite 42g High Protein Shake Elite Chocolate,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 22:41 2 04-197,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7232001,225,Gus's Whole Roasted Lemon Chicken,"meat,chicken,groceries,poultry",meat,,<1,<LOQ,<85,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7232002,225,Gus's Whole Roasted Lemon Chicken,"meat,chicken,groceries,poultry",meat,,<1,<LOQ,<85,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7232003,225,Gus's Whole Roasted Lemon Chicken,"meat,chicken,groceries,poultry",meat,,<1,<LOQ,<85,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7232201,15,Blue Bottle Medium Roast Black Coffee from SF Ferry Building,"coffee,beverages,sf_ferry",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7232202,16,Blue Bottle Medium Roast Black Coffee from SF Hayes Valley,"coffee,beverages,sf_hayes",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7232203,129,Tartine Medium Roast Black Coffee,"coffee,beverages",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7232401,2,Boudin Sourdough Bread,"bread,groceries",bread,,<1,<LOQ,<64,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7232402,3,Tartine Sourdough Bread,"bread,groceries",bread,,<1,<LOQ,<64,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7241301,52,Gerber Baby Food Organic Carrot in Glass,"baby_food,baby,food,glass,organic",baby_food,3276515911 US00284 A 2 175 08:54,<1,<LOQ,<113,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7241303,51,Gerber Baby Food Banana in Glass,"baby_food,baby,food,glass",baby_food,4057515911 US00634,<1,<LOQ,<113,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7242901,193,Knox Original Unflavored Gelatine,"groceries,gelatin,modern",groceries,DB01 9:07,<2.5,<LOQ,<2.5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7242902,193,Knox Original Unflavored Gelatine,"groceries,gelatin,modern",groceries,DB01 9:07,<2.5,<LOQ,<2.5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7242903,193,Knox Original Unflavored Gelatine,"groceries,gelatin,modern",groceries,DB01 9:07,<2.5,<LOQ,<2.5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7242905,193,Knox Original Unflavored Gelatine,"groceries,gelatin,modern",groceries,DB01 9:18,<5,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7242906,193,Knox Original Unflavored Gelatine,"groceries,gelatin,modern",groceries,DB01 9:08,<5,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7243901,222,Cheerios 100% Whole Grain Oats Cereal,"cereals,groceries",cereals,CW155205,<1,<LOQ,<39,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7243902,222,Cheerios 100% Whole Grain Oats Cereal,"cereals,groceries",cereals,CW185903,<1,<LOQ,<39,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7243903,222,Cheerios 100% Whole Grain Oats Cereal,"cereals,groceries",cereals,CW185903,<1,<LOQ,<39,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7243904,222,Cheerios 100% Whole Grain Oats Cereal,"cereals,groceries",cereals,BU112815,<1,<LOQ,<39,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7244001,224,Haribo Goldbears,"candy,groceries",candy,L011 4002063579 4105B,<1,<LOQ,<30,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7244002,224,Haribo Goldbears,"candy,groceries",candy,L011 4002022199 3216A,<1,<LOQ,<30,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7244003,224,Haribo Goldbears,"candy,groceries",candy,L011 4002022199 3116A,<1,<LOQ,<30,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7260301,201,Ricola Honey Lemon Echinacea Herbal Cold Tablets,"medications,cold_tablet,health,modern,pills,tablet",medications,200016311B,<1,<LOQ,<22,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7260302,201,Ricola Honey Lemon Echinacea Herbal Cold Tablets,"medications,cold_tablet,health,modern,pills,tablet",medications,200016311B,<1,<LOQ,<22,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7260303,201,Ricola Honey Lemon Echinacea Herbal Cold Tablets,"medications,cold_tablet,health,modern,pills,tablet",medications,2000161794,<1,<LOQ,<22,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7290901,54,Happy Baby Baby Food Organic Carrot in Glass,"baby_food,baby,food,glass,organic",baby_food,101414985 152629/24956 02/21:35,<1,<LOQ,<113,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7291701,119,Straus Organic Plain Nonfat Greek Yogurt,"yogurt,dairy,non_fat,organic",yogurt,YBT#02 16:34:13,<1,<LOQ,<170,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7292801,56,Impossible Impossible Meat Patty,"meat_substitutes,groceries",meat_substitutes,ASH 24144 01 13:23 A4,<1,<LOQ,<113,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7292802,56,Impossible Impossible Meat Patty,"meat_substitutes,groceries",meat_substitutes,ASH 24 144 01 13:24 C1,<1,<LOQ,<113,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7294001,228,M&M's Peanut Chocolate Candies Sharing Size,"candy,groceries",candy,425 AKHKP0213,<1,<LOQ,<28,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7294002,228,M&M's Peanut Chocolate Candies Sharing Size,"candy,groceries",candy,425 AKHKP0213,<1,<LOQ,<28,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7294003,228,M&M's Peanut Chocolate Candies Sharing Size,"candy,groceries",candy,425 AKHKP0213,<1,<LOQ,<28,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7300103,238,Stanford University Dining Hall Water,"palo_alto,water",palo_alto,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7300401,74,LaCroix Sparkling Water Pamplemousse,"water,beverages,sodas",water,1328HY,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7300402,73,LaCroix Sparkling Water Pure,"water,beverages,sodas",water,0236HY,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7301201,29,Raw Cow Milk from Farm in Glass,"dairy,cow_milk,cow_milk_from_farm,farm,glass,milk,raw_cow_milk",dairy,,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7301802,239,"Stanford University Dining Meal (Beans, Chicken, Rice, Cauliflower)",palo_alto,palo_alto,,<1,<LOQ,<474,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7301804,142,RXBAR 10g Protein Bar Blueberry Cashew Butter,"snacks,groceries",snacks,BM B B1 W4 00:53,<1,<LOQ,<52,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7301805,142,RXBAR 10g Protein Bar Blueberry Cashew Butter,"snacks,groceries",snacks,BM B B1 W4 00:53,<1,<LOQ,<52,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7301806,142,RXBAR 10g Protein Bar Blueberry Cashew Butter,"snacks,groceries",snacks,BM B B1 W4 00:53,<1,<LOQ,<52,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7301901,231,Fairlife Core Power Elite 42g High Protein Shake Elite Chocolate,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 08:45 2 04-197,<2.5,<LOQ,<1125,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7301902,231,Fairlife Core Power Elite 42g High Protein Shake Elite Chocolate,"protein_drinks,beverages,protein,shakes",protein_drinks,GA 23:04 2 04-198,<1,<LOQ,<450,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7302001,12,Whole Foods Organic Boneless Skinless Chicken Breast,"meat,chicken,groceries,organic,poultry",meat,,<1,<LOQ,<112,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7303601,37,Powdered Milk from 1952 Korean War Rations,"vintage,1950s,cow_milk,military_rations,milk,powdered_milk",vintage,,<5,<LOQ,<125,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7303602,40,Cracker from 1952 Korean War Rations,"vintage,1950s,cracker,military_rations",vintage,,<1,<LOQ,<16,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7303603,40,Cracker from 1952 Korean War Rations,"vintage,1950s,cracker,military_rations",vintage,,<1,<LOQ,<16,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7303605,38,Cocoa Powder from 1952 Korean War Rations,"vintage,1950s,cocoa,military_rations",vintage,,<1,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7303606,38,Cocoa Powder from 1952 Korean War Rations,"vintage,1950s,cocoa,military_rations",vintage,,<1,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7303607,39,Cane Sugar from 1952 Korean War Rations,"vintage,1950s,military_rations,sugar",vintage,,<5,<LOQ,<40,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7303608,990,Cocoa Powder from 1920s,"vintage,1920s,cocoa,groceries",vintage,,<5,<LOQ,<25,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7303609,194,Ghirardelli Instant Ground Chocolate and Cocoa Powder from 1940s,"vintage,1940s,cocoa,groceries",vintage,,<1,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7303611,44,Peanut Butter from 1962 Army Rations,"vintage,1960s,military_rations,peanut_butter",vintage,,<1,<LOQ,<32,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7303612,40,Cracker from 1952 Korean War Rations,"vintage,1950s,cracker,military_rations",vintage,,<1,<LOQ,<16,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7303613,43,Milk Chocolate from 1962 Army Rations,"vintage,1960s,chocolate,military_rations,milk_chocolate",vintage,,<1,<LOQ,<32,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7303901,223,Kelloggs Froot Loops,"cereals,groceries",cereals,2 KNA 304 11:09,<1,<LOQ,<39,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7303902,223,Kelloggs Froot Loops,"cereals,groceries",cereals,1 KNA 304 11:09,<1,<LOQ,<39,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7303903,223,Kelloggs Froot Loops,"cereals,groceries",cereals,2 KNA 304 11:11,<1,<LOQ,<39,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7303904,222,Cheerios 100% Whole Grain Oats Cereal,"cereals,groceries",cereals,CW135503,<1,<LOQ,<39,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7304001,228,M&M's Peanut Chocolate Candies Sharing Size,"candy,groceries",candy,423GMHKP0213,<1,<LOQ,<28,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8020301,128,Athletic Greens AG1 Dietary Supplement,"supplements,health",supplements,GR10107NSREV000 382462C,<50,<LOQ,<600,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8020302,128,Athletic Greens AG1 Dietary Supplement,"supplements,health",supplements,GR10107NSREV000 382462C,<5,<LOQ,<60,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8020303,85,Sunwarrior Active Creatine Monohydrate Unflavored,"supplements,health",supplements,24052013300,<1,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8021801,236,RXBAR 12g Protein Bar Blueberry,"snacks,groceries",snacks,BE BC1 23:39,<1,<LOQ,<52,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8023801,325,Angry Orchard Crisp Hard Apple Cider,"beverages,alcoholic",beverages,4123166241315E 0 180 4 0433 66E,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8023802,325,Angry Orchard Crisp Hard Apple Cider,"beverages,alcoholic",beverages,4123083242255 P 120 4 2108 66U,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8023803,325,Angry Orchard Crisp Hard Apple Cider,"beverages,alcoholic",beverages,4123158240217W P 173 4 1331 66U,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8030402,79,Ito En Oi Ocha Unsweetened Green Tea,"tea,beverages",tea,11:16,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8033301,31,Sweetgreen Chicken Pesto Parm Salad,"prepared_meals,salad",prepared_meals,,<1,<LOQ,<395,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8033302,31,Sweetgreen Chicken Pesto Parm Salad,"prepared_meals,salad",prepared_meals,,<1,<LOQ,<395,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8033303,31,Sweetgreen Chicken Pesto Parm Salad,"prepared_meals,salad",prepared_meals,,<1,<LOQ,<395,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8040101,98,Mountain Valley Spring Water,"water,bottled_water,glass",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8040401,75,Celsius Sparkling Drink Wildberry,"energy_drinks,beverages,sodas",energy_drinks,,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8040901,411,Kate Farms Pediatric Standard Formula,"baby_food,baby,formula",baby_food,8304-01 55-446 04:40,<1,<LOQ,<177,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8041201,28,Straus Organic Whole Milk in Glass,"dairy,cow_milk,cow_milk_from_store,glass,milk,organic,whole_milk",dairy,,<1,<LOQ,<240,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8041701,119,Straus Organic Plain Nonfat Greek Yogurt,"yogurt,dairy,non_fat,organic",yogurt,YBT#02 16:32:53,<1,<LOQ,<170,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8042201,20,Philz Medium Roast Black Coffee from Palo Alto,"coffee,beverages,palo_alto",coffee,,<1,<LOQ,<237,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8042701,25,Ben & Jerry's Phish Food Ice Cream,"ice_cream,groceries",ice_cream,BJ1 5095 11:15 84138391,<1,<LOQ,<143,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8043301,9,In-n-Out Cheeseburger Animal Style,"fast_food,burgers",fast_food,,<1,<LOQ,<229,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8043302,9,In-n-Out Cheeseburger Animal Style,"fast_food,burgers",fast_food,,<1,<LOQ,<229,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8043303,9,In-n-Out Cheeseburger Animal Style,"fast_food,burgers",fast_food,,<1,<LOQ,<229,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8050101,106,Unfiltered Tap Water - PlasticList Office (30sec after start),"water,30_sec,palo_alto,tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8050204,198,Cold Tablets from 1920s,"vintage,1920s,cold_tablet,health,medications,pills,tablet",vintage,,<50,<LOQ,<1100,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8052501,951,Breast Milk from Milk Bank Mature Grade,"breast_milk,baby,milk",breast_milk,,<1,<LOQ,<152,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8052701,300,Salt & Straw Double Fold Vanilla Ice Cream,"ice_cream,groceries",ice_cream,24178,<1,<LOQ,<143,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8052702,300,Salt & Straw Double Fold Vanilla Ice Cream,"ice_cream,groceries",ice_cream,24107,<1,<LOQ,<143,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8052703,300,Salt & Straw Double Fold Vanilla Ice Cream,"ice_cream,groceries",ice_cream,24129,<1,<LOQ,<143,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8053601,196,Tap Water with Purification Tablets from 1973 (after 30min),"vintage,1970s,purified,tablet,water",vintage,,<50,<LOQ,<17750,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8070101,261,Berkey Filtered Tap Water from SF Haight-Ashbury,"water, tap_water,filtered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8070102,262,Unfiltered Tap Water from SF Haight-Ashbury,"water, tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8070103,460,Distilled Water from Infinity Enteral Pump Delivery Set by Moog (First Run),"baby,water",baby,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8070104,461,Distilled Water from Infinity Enteral Pump Delivery Set by Moog (Second Run),"baby,water",baby,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8070105,326,Distilled Water,water,water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8070201,258,Thorne Basic Prenatal Dietary Supplement,"supplements,baby,health,pills,vitamins",supplements,412841,<1,<LOQ,<2,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8070202,258,Thorne Basic Prenatal Dietary Supplement,"supplements,baby,health,pills,vitamins",supplements,412351,<5,<LOQ,<10,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8070203,258,Thorne Basic Prenatal Dietary Supplement,"supplements,baby,health,pills,vitamins",supplements,412841,<5,<LOQ,<10,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8070204,259,Thorne Prenatal DHA Dietary Supplement,"supplements,baby,health,pills,vitamins",supplements,412703,<10,<LOQ,<20,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8070205,259,Thorne Prenatal DHA Dietary Supplement,"supplements,baby,health,pills,vitamins",supplements,412253,<5,<LOQ,<10,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8070206,259,Thorne Prenatal DHA Dietary Supplement,"supplements,baby,health,pills,vitamins",supplements,413035,<5,<LOQ,<10,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8070207,260,One A Day Womens Prenatal 1 Multivitamin with DHA & Folic Acid,"supplements,baby,health,pills,vitamins",supplements,NAADEPA 87044408,<1,<LOQ,<1,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8070301,260,One A Day Womens Prenatal 1 Multivitamin with DHA & Folic Acid,"supplements,baby,health,pills,vitamins",supplements,NAADACB 87044408,<1,<LOQ,<1,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8070302,260,One A Day Womens Prenatal 1 Multivitamin with DHA & Folic Acid,"supplements,baby,health,pills,vitamins",supplements,NAADACB 87044408,<1,<LOQ,<1,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8070901,412,"Kate Farms, Moog Pediatric Standard Formula via Infinity Enteral Feeding Pump","baby_food,baby,formula",baby_food,,<1,<LOQ,<177,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8144001,312,Sour Patch Kids Original Soft & Chewy,"candy,groceries",candy,XBV176241352 22:24,<1,<LOQ,<30,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8144002,312,Sour Patch Kids Original Soft & Chewy,"candy,groceries",candy,XSN15924831 03:42,<1,<LOQ,<30,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8144003,312,Sour Patch Kids Original Soft & Chewy,"candy,groceries",candy,XSN09624842 15:24,<1,<LOQ,<30,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8154501,753,Paper Receipt in Water - Panda Express,"receipts,water",receipts,,<1,<LOQ,<175,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8154502,754,Paper Receipt in Water - Macy's,"receipts,water",receipts,,<1,<LOQ,<175,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8154503,755,Paper Receipt in Water - Walgreens,"receipts,water",receipts,,<1,<LOQ,<175,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8193401,316,O Organics Organic Eggs Large Brown,organic,organic,225P-5150,<1,<LOQ,<100,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8193402,316,O Organics Organic Eggs Large Brown,organic,organic,225P-5150,<1,<LOQ,<100,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8193403,316,O Organics Organic Eggs Large Brown,organic,organic,225P-5150,<1,<LOQ,<100,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8194501,750,Paper Receipt - Lululemon,receipts,receipts,,<50,<LOQ,<50,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8194502,751,Paper Receipt - Safeway,receipts,receipts,,<50,<LOQ,<50,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8194503,752,Paper Receipt - UPS,receipts,receipts,,<50,<LOQ,<50,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8194601,318,Tampax Pearl Regular Absorbency Tampons,"personal_care,feminine",personal_care,,<5,<LOQ,<15,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8194602,318,Tampax Pearl Regular Absorbency Tampons,"personal_care,feminine",personal_care,,<5,<LOQ,<15,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8194603,318,Tampax Pearl Regular Absorbency Tampons,"personal_care,feminine",personal_care,,<5,<LOQ,<15,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8210101,329,Essentia Ionized Alkaline Water in Phthalate & BPA Free Bottle,"water,bottled_water,plastic",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8210102,329,Essentia Ionized Alkaline Water in Phthalate & BPA Free Bottle,"water,bottled_water,plastic",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8210103,329,Essentia Ionized Alkaline Water in Phthalate & BPA Free Bottle,"water,bottled_water,plastic",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8210104,330,Smeraldina Still Artesian Water,"water,bottled_water,glass",water,L 075,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8210105,330,Smeraldina Still Artesian Water,"water,bottled_water,glass",water,L 075,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8210106,330,Smeraldina Still Artesian Water,"water,bottled_water,glass",water,L 170,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8294703,335,Whole Foods Farm Raised Atlantic Salmon,"seafood,groceries",seafood,,<1,<LOQ,<113,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+8294707,334,Whole Foods Cold Smoked Atlantic Salmon,"seafood,groceries",seafood,,<1,<LOQ,<57,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+9050101,321,Unfiltered Tap Water from age1,"water, tap_water,unfiltered",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+9112501,422,Breast Milk from Milk Bank - Philips Avent Plastic Bottle (24hr in Fridge) - Washed,"breast_milk,baby,milk,plastic",breast_milk,Bottle: 1965891,<1,<LOQ,<152,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+9112502,420,Breast Milk from Milk Bank - Philips Avent Glass Bottle (24hr in Fridge) - Washed,"breast_milk,baby,glass,milk",breast_milk,Bottle: 112433022-884191304541-2028670,<1,<LOQ,<152,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+9112503,423,Breast Milk from Milk Bank - Philips Avent Plastic Bottle (24hr in Fridge) - Medela Sanitized,"breast_milk,baby,milk,plastic",breast_milk,Bottle: 1965891 Sanitizing bag: 40712,<1,<LOQ,<152,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+9112504,421,Breast Milk from Milk Bank - Philips Avent Glass Bottle (24hr in Fridge) - Medela Sanitized,"breast_milk,baby,glass,milk",breast_milk,Bottle: 112433022-884191304541-2028670 Sanitizing bag: 40712,<1,<LOQ,<152,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+10030601,246,Colgate Pre-Brush Mouth Swish (Manual Brush),"personal_care,dental",personal_care,,<1,<LOQ,<60,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+10030602,247,Colgate Post-Brush First Mouth Swish (Manual Brush),"personal_care,dental",personal_care,,<1,<LOQ,<60,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+10030603,248,Colgate Post-Brush Second Mouth Swish (Manual Brush),"personal_care,dental",personal_care,,<1,<LOQ,<60,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+10030604,249,"Philips Sonicare, Colgate Pre-Brush Mouth Swish (Electric Brush)","personal_care,dental",personal_care,,<1,<LOQ,<60,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+10030605,250,"Philips Sonicare, Colgate Post-Brush First Mouth Swish (Electric Brush)","personal_care,dental",personal_care,,<1,<LOQ,<60,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+10030606,251,"Philips Sonicare, Colgate Post-Brush Second Mouth Swish (Electric Brush)","personal_care,dental",personal_care,,<1,<LOQ,<60,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+12090101,930,Tazo Awake English Breakfast Black Tea,"tea,beverages",tea,,<1,<LOQ,<300,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+12090102,930,Tazo Awake English Breakfast Black Tea,"tea,beverages",tea,,<1,<LOQ,<300,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+12090103,931,Rishi English Breakfast Organic Black Tea,"tea,beverages",tea,,<1,<LOQ,<300,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+12090104,931,Rishi English Breakfast Organic Black Tea,"tea,beverages",tea,,<1,<LOQ,<300,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240101,98,Mountain Valley Spring Water,"water,bottled_water,glass",water,30917C 0041149,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240102,101,Fiji Natural Artesian Water,"water,bottled_water,no_hot_car,plastic",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240103,101,Fiji Natural Artesian Water,"water,bottled_water,no_hot_car,plastic",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240104,101,Fiji Natural Artesian Water,"water,bottled_water,no_hot_car,plastic",water,,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240105,99,Liquid Death Mountain Water,"water,beverages",water,35L06 34KJ3,<1,<LOQ,<355,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240201,88,Tylenol Acetaminophen Extra Strength Coated,"medications,coated,health,modern,pills,tablet",medications,DDC207,<5,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240202,90,Tylenol Acetaminophen Extra Strength Uncoated,"medications,health,modern,pills,tablet,uncoated",medications,CPA013,<5,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240301,84,Optimum Nutrition Gold Standard 100% Whey Protein Chocolate Peanut Butter,"supplements,health,protein",supplements,0001231900 12:34,<1,<LOQ,<30,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240302,85,Sunwarrior Active Creatine Monohydrate Unflavored,"supplements,health",supplements,24041513300,<1,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240303,86,Emergen C 1000mg Vitamin C Immune Support Fizzy Drink Mix Orange,"supplements,health,vitamins",supplements,MW9U,<1,<LOQ,<9,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240304,87,Liquid IV Hydration Multiplier Electrolyte Drink Mix Strawberry,"electrolytes,beverages,hydration",electrolytes,LK106-24 8:14,<1,<LOQ,<16,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240401,70,Coca-Cola Original,"sodas,beverages",sodas,UVG16441N,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240402,71,Coca-Cola Diet,"sodas,beverages",sodas,"Pack: UVC16501B 09, Can: UVC16451N",<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240403,72,Coca-Cola Zero,"sodas,beverages",sodas,UVC13111N,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240404,73,LaCroix Sparkling Water Pure,"water,beverages,sodas",water,0802HY,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240405,74,LaCroix Sparkling Water Pamplemousse,"water,beverages,sodas",water,1755HY,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240406,75,Celsius Sparkling Drink Wildberry,"energy_drinks,beverages,sodas",energy_drinks,MFG 3173 0:36,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240407,76,Celsius Sparkling Orange,"energy_drinks,beverages,sodas",energy_drinks,MFG 0344 13:34,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240408,77,Celsius Sparkling Drink Kiwi Guava,"energy_drinks,beverages,sodas",energy_drinks,MFG 0674 15:45,<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240409,69,Guayaki Organic Yerba Mate Bluephoria,"energy_drinks,beverages,organic,sodas",energy_drinks,"NSE 13:36, NSE 13:37",<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240410,78,Red Bull Energy Drink Original,"energy_drinks,beverages,sodas",energy_drinks,"2235261/06:37, 2235261/06:31",<1,<LOQ,<370,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240501,68,Whole Foods Organic Long Grain White Rice,"dry_goods,groceries,organic",dry_goods,,<1,<LOQ,<45,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240601,49,Colgate Cavity Protection Fluoride Toothpaste Regular Flavor,"personal_care,dental",personal_care,4097MX112E,<5,<LOQ,<5,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240602,50,Colgate 360 Extra Soft Toothbrush for Sensitive Teeth,"personal_care,dental",personal_care,4018CH30V,<33,<LOQ,<33,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240701,47,Whole Foods Organic Creamy Peanut Butter Unsweetened Unsalted,"peanut_butter,modern,organic",peanut_butter,TB3355A 17:19,<1,<LOQ,<32,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240702,48,PB2 Foods Peanut Butter Powdered,peanut_butter,peanut_butter,2:46 1124141110,<1,<LOQ,<13,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240801,46,Whole Foods Organic Pasta Spaghetti,"dry_goods,groceries,organic",dry_goods,L23326 5:51 T4S,<1,<LOQ,<56,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+20240901,1,Enfamil Neuro Pro 587g Infant Formula (Tub),"baby_food,baby,formula",baby_food,EE4CUU,<1,<LOQ,<22,<LOQ,<LOQ,<LOQ,<LOQ,<LOQ
+7172301,93,Boba Guys Black Tea Pearls,"tea,beverages",tea,,30,100,4560,100,0.7,0.1,162857.1,32571.4
+8050203,237,Tap Water with Aquatabs Purification Tablets (after 30min),"water,modern,purified,tablet",water,BN X702,6.7,80,2378.5,98,0.3,0.07,84946.4,16989.3
+7172303,94,Boba Guys Fruity Flavored Tea,"tea,beverages",tea,,5.6,75,2072,95,0.3,0.06,74000,14800
+7213502,138,Wild Planet Albacore Wild Tuna,"seafood,groceries",seafood,HDANS FAO 71 22 08 03 B 9,12,86,1704,91,0.2,0.05,60857.1,12171.4
+7213503,138,Wild Planet Albacore Wild Tuna,"seafood,groceries",seafood,HDANS FAO 71 22 08 03 B 9,12,86,1704,91,0.2,0.05,60857.1,12171.4
+7212303,94,Boba Guys Fruity Flavored Tea,"tea,beverages",tea,,4.5,70,1665,88,0.2,0.05,59464.3,11892.9
+8050201,237,Tap Water with Aquatabs Purification Tablets (after 30min),"water,modern,purified,tablet",water,BN X702,4.3,68,1526.5,85,0.2,0.04,54517.9,10903.6
+7172302,92,Boba Guys Black Tea Juice,"tea,beverages",tea,,3.8,65,1406,82,0.2,0.04,50214.3,10042.9
+7213501,138,Wild Planet Albacore Wild Tuna,"seafood,groceries",seafood,HDANS FAO 71 22 08 03 B 9,9.8,82,1391.6,80,0.2,0.04,49700,9940
+7302903,245,Spam Canned Meat,"meat,groceries",meat,F100 EST199P D05204 0504245 1231423,20,98,1120,78,0.2,0.03,40000,8000
+7180801,139,Annie's Organic Classic Cheddar Mac and Cheese,"prepared_meals,groceries,microwaved,organic",prepared_meals,YN 01:14 02,14,90,994,75,0.1,0.03,35500,7100
+7302901,245,Spam Canned Meat,"meat,groceries",meat,F100 EST199P D05234 0515245 0938423,17,94,952,71,0.1,0.03,34000,6800
+7302902,245,Spam Canned Meat,"meat,groceries",meat,F100 EST199P D05234 0515245 1021423,17,94,952,71,0.1,0.03,34000,6800
+7212302,93,Boba Guys Black Tea Pearls,"tea,beverages",tea,,6,78,912,68,0.1,0.03,32571.4,6514.3
+7212301,92,Boba Guys Black Tea Juice,"tea,beverages",tea,,2.4,57,888,65,0.1,0.03,31714.3,6342.9
+8050202,237,Tap Water with Aquatabs Purification Tablets (after 30min),"water,modern,purified,tablet",water,BN X702,2.5,60,887.5,62,0.1,0.03,31696.4,6339.3
+7301801,239,"Stanford University Dining Meal (Beans, Chicken, Rice, Cauliflower)",palo_alto,palo_alto,,1.6,28,758.4,60,0.1,0.02,27085.7,5417.1
+7122303,94,Boba Guys Fruity Flavored Tea,"tea,beverages",tea,,2,45,740,57,0.1,0.02,26428.6,5285.7
+7172001,19,Starbucks Medium Roast Black Coffee from Palo Alto,"coffee,beverages,palo_alto",coffee,,2.8,62,663.6,55,0.09,0.02,23700,4740
+7122301,92,Boba Guys Black Tea Juice,"tea,beverages",tea,,1.6,28,592,52,0.08,0.02,21142.9,4228.6
+7301803,239,"Stanford University Dining Meal (Beans, Chicken, Rice, Cauliflower)",palo_alto,palo_alto,,1.1,8,521.4,50,0.07,0.01,18621.4,3724.3
+7213306,166,Shake Shack Cheeseburger,"fast_food,burgers",fast_food,,2.2,52,503.8,48,0.07,0.01,17992.9,3598.6
+7172002,21,Verve Medium Roast Black Coffee from Palo Alto,"coffee,beverages,palo_alto",coffee,,2.1,48,497.7,45,0.07,0.01,17775,3555
+7211401,57,Almond Breeze Original Almond Milk Unsweetened in Carton,"dairy_alternatives,lactose_free,milk,plant_milk",dairy_alternatives,L1 19:08 #06-16681 1,1.9,41,456,42,0.07,0.01,16285.7,3257.1
+8030401,79,Ito En Oi Ocha Unsweetened Green Tea,"tea,beverages",tea,11:18,1.2,16,444,40,0.06,0.01,15857.1,3171.4
+7203327,158,Dominos Pacific Veggie Pizza,"fast_food,pizza",fast_food,,2.2,52,305.8,38,0.04,0.009,10921.4,2184.3
+7212702,25,Ben & Jerry's Phish Food Ice Cream,"ice_cream,groceries",ice_cream,BJ1 5095 10:17 84138391,1.8,36,257.4,35,0.04,0.007,9192.9,1838.6
+7122302,93,Boba Guys Black Tea Pearls,"tea,beverages",tea,,1.6,28,243.2,32,0.03,0.007,8685.7,1737.1
+8294701,335,Whole Foods Farm Raised Atlantic Salmon,"seafood,groceries",seafood,,1.8,36,203.4,30,0.03,0.006,7264.3,1452.9
+8294704,336,Whole Foods Wild Caught Salmon,"seafood,groceries",seafood,,1.5,22,169.5,28,0.02,0.005,6053.6,1210.7
+7301501,135,Whole Foods Organic Boneless Beef Ribeye Steak Grass Fed,"meat,beef,beef_from_store,groceries,organic",meat,,1.7,32,144.5,25,0.02,0.004,5160.7,1032.1
+8294705,336,Whole Foods Wild Caught Salmon,"seafood,groceries",seafood,,1.2,16,135.6,22,0.02,0.004,4842.9,968.6
+8294702,335,Whole Foods Farm Raised Atlantic Salmon,"seafood,groceries",seafood,,1.1,8,124.3,19,0.02,0.004,4439.3,887.9
+8294706,336,Whole Foods Wild Caught Salmon,"seafood,groceries",seafood,,1.1,8,124.3,19,0.02,0.004,4439.3,887.9
+7181802,236,RXBAR 12g Protein Bar Blueberry,"snacks,groceries",snacks,BEAC1 0823,2.2,52,114.4,15,0.02,0.003,4085.7,817.1
+7181803,149,RXBAR 12g Protein Bar Strawberry,"snacks,groceries",snacks,BEBC1 00:51,1.9,41,98.8,12,0.01,0.003,3528.6,705.7
+7301502,64,Whole Foods Boneless Beef Ribeye Steak Pasture Raised,"meat,beef,beef_from_store,groceries",meat,,1.1,8,93.5,10,0.01,0.003,3339.3,667.9
+8294709,334,Whole Foods Cold Smoked Atlantic Salmon,"seafood,groceries",seafood,,1.3,20,74.1,8,0.01,0.002,2646.4,529.3
+8294708,334,Whole Foods Cold Smoked Atlantic Salmon,"seafood,groceries",seafood,,1.1,8,62.7,5,0.009,0.002,2239.3,447.9
+20240203,89,Nature Made Prenatal Folic Acid + DHA Supplement,"supplements,baby,health,pills,vitamins",supplements,2555399,5.2,72,5.2,2,0.0007,0.0001,185.7,37.1
