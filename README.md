@@ -1,6 +1,6 @@
 # BPA-Exposure-Analysis
 
-This project explores publicly available brand audit data from [PlasticList.org](https://plasticslist.org) and supporting references to identify products and plastic types most associated with BPA (bisphenol A) — a known endocrine disruptor found in many plastic goods.
+This project explores publicly available brand audit data from [PlasticList.org](https://www.plasticlist.org/) and supporting references to identify products and plastic types most associated with BPA (bisphenol A) — a known endocrine disruptor found in many plastic goods.
 
 ## Key Questions
 - What plastic types are most likely to contain BPA?
