@@ -18,7 +18,7 @@ Preliminary results suggest that polycarbonate (PC) plastics, thermal paper, and
 ### Data Cleaning & Preparation Steps
 
 - Downloaded the `samples.tsv` file from PlasticList.org. [tsv file](samples.tsv)
-- Uploaded to Google Sheets and saved as `BPA_data`. [Download Sheet Here](BPA_Data_Cleaned.csv)
+- Uploaded to Google Sheets and saved as `BPA_data`. [Download Sheet Here](BPA_data_cleaned.csv)
 - Removed irrelevant columns, focusing on BPA-related information.
 - Extracted unique product `tag categories` using:
   =UNIQUE(A1:A120)
