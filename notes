@@ -1,0 +1,11 @@
+I downloaded the .tsv file from plasticlist.org: samples.tsv
+Started a new sheet and uploaded samples.tsv
+Removed columns not relevant to BPA and copied into new sheet "BPA_data"
+Created subcategories of "tag category" to further refine data
+  first, generated unique values for tag category
+  copied Column D "tags" into a new sheet and used formula =UNIQUE(A1:A120)
+  I separated the vaue of "tags" column by the delimiter "," using formula =INDEX(SPLIT(A2, ","), 1) to create subcategories
+  i USED =UNIQUE(B2:B120) to generate a list of unique subcategories 
+Created a table for VLOOKUP
+  I copied the columns into a sheet named Categories
+Added subcategories to the data in the "BPA_data" via VLOOKUP =VLOOKUP(D2, Categories!D:E, 2, FALSE)
